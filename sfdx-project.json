@@ -1,12 +1,20 @@
 {
   "packageDirectories": [
     {
-      "path": "force-app",
+      "path": "srcMyCoreApp",
       "default": true
+    },
+    {
+      "path": "srcMySalesApp",
+      "default": false
+    },
+    {
+      "path": "srcMyServiceApp",
+      "default": false
     }
   ],
   "name": "cohortFall22",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "55.0"
+  "sourceApiVersion": "57.0"
 }
