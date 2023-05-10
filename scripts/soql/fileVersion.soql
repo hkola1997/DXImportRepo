@@ -1,0 +1,1 @@
+SELECT Id, ContentDocumentId, VersionNumber, Title, Description, FileType, ContentSize FROM ContentVersion WHERE ContentDocumentId = '0695p00001KPj2oAAD'
