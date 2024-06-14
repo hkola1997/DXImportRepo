@@ -8,6 +8,14 @@
         <label>Asset Information</label>
         <layoutColumns>
             <layoutItems>
+                <behavior>Edit</behavior>
+                <field>CurrentQuantity</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Address</field>
+            </layoutItems>
+            <layoutItems>
                 <behavior>Required</behavior>
                 <field>Name</field>
             </layoutItems>
@@ -42,6 +50,10 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Quantity</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>AssetLevel</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
