@@ -5,6 +5,6 @@
 
 # Sample statements for metadata which is frequently excluded. 
 # please remove comment (#) to "activate" a statement and start resolving conflicts for specific metadata manually in Copado:
-#**/classes/*.cls
-#**/pages/*.page
-#**/layouts/*.layout-meta.xml
+**/classes/*.cls
+**/pages/*.page
+**/layouts/*.layout-meta.xml
