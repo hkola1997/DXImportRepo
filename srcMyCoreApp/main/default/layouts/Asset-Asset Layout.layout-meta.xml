@@ -9,11 +9,11 @@
         <layoutColumns>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>LifecycleStartDate</field>
+                <field>CurrentQuantity</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>ManufactureDate</field>
+                <field>Address</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
@@ -21,7 +21,15 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
+                <field>CurrentLifecycleEndDate</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
                 <field>Product2Id</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>CurrentMrr</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Readonly</behavior>
@@ -60,10 +68,6 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>IsCompetitorProduct</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>ParentId</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
@@ -166,7 +170,7 @@
     <showRunAssignmentRulesCheckbox>false</showRunAssignmentRulesCheckbox>
     <showSubmitAndAttachButton>false</showSubmitAndAttachButton>
     <summaryLayout>
-        <masterLabel>00hdL000003ERkL</masterLabel>
+        <masterLabel>00h5j00000E0IJC</masterLabel>
         <sizeX>4</sizeX>
         <sizeY>0</sizeY>
         <summaryLayoutStyle>Default</summaryLayoutStyle>
