@@ -67,8 +67,8 @@
     <template>
         <name>flexipage:recordHomeLeftSidebarTemplateDesktop</name>
         <properties>
-            <name>enablePageActionConfig</name>
-            <value>false</value>
+            <name>enablePageActionConfig1</name>
+            <value>true</value>
         </properties>
     </template>
     <type>RecordPage</type>
