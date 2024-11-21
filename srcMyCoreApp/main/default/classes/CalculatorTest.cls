@@ -3,11 +3,11 @@ public class CalculatorTest {
 
     @IsTest
     public static void testAdd() {
-        // Test data anudeep
+        // Test data
         Integer a = 5;
         Integer b = 3;
 
-        // Expected result Hari
+        // Expected result
         Integer expectedResult = 8;
 
         // Call the method and get the result
