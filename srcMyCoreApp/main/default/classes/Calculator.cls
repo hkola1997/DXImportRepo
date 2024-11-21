@@ -1,6 +1,7 @@
 public class Calculator {
 
     // Method to add two numbers
+    //commiting through salesforce CLI
     public static Integer add(Integer a, Integer b) {
         return a + b;
     }
