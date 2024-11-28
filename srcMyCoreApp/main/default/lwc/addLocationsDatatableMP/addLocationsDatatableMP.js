@@ -5,7 +5,7 @@ export default class AddLocationsDatatableMP extends LightningElement {
         { label: 'Location Name', fieldName: 'locationName', type: 'text' },
         { label: 'City', fieldName: 'city', type: 'text' },
         { label: 'State', fieldName: 'state', type: 'text' },
-        { label: 'Zip Code', fieldName: 'zip', type: 'number' }
+        { label: 'Zip Code', fieldName: 'zip', type: 'number' } //chandutest
     ];
 
     @track locations = [
